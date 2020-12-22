@@ -4,4 +4,4 @@ Lab2:  [Shop Manager](https://github.com/fedos3d/oop_lab2/blob/main/tasks/OOP_La
 Lab3:  [Racing Simulator](https://github.com/fedos3d/oop_labs/blob/main/tasks/OOP_Lab_3_Racing_sumulator.pdf) <br>
 Lab4:  [Backup](https://github.com/fedos3d/oop_labs/blob/main/tasks/OOP_Lab_4_Backups.pdf) <br>
 Lab5:  [Bank](https://github.com/fedos3d/oop_labs/blob/main/tasks/OOP_Lab_5_Banks.pdf) <br>
-Lab5:  [Reports](https://github.com/fedos3d/oop_labs/blob/main/tasks/OOP_Lab_6_Reports.pdf)
+Lab6:  [Reports](https://github.com/fedos3d/oop_labs/blob/main/tasks/OOP_Lab_6_Reports.pdf)
